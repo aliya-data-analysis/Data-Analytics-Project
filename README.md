@@ -1,8 +1,8 @@
 Project Name: Sales Data Analysis
 
 Tools Used:
-- Power Bi
 - Excel
+- Power BI
 - SQL
 - Tableau
 
